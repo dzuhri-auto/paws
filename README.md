@@ -2,12 +2,24 @@
 
 PAWS Telegram Mini App Bot (only using Query ID)
 
-> [!NOTE]
-> This is a paid script that requires a valid license key to operate. For more information, please visit the [Dzuhri Auto](https://irhamdz.notion.site/Dzuhri-Auto-10f53e55353080f98fbae250bd7172d1) page.
+[![Static Badge](https://img.shields.io/badge/Dzuhri_AUTO_Links-yes?style=for-the-badge&color=black)](https://t.me/hidden_coding)
+[![Static Badge](https://img.shields.io/badge/Channel-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/dzuhri_auto)
+[![Static Badge](https://img.shields.io/badge/discussion-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/dzuhri_auto_discussion)
+[![Static Badge](https://img.shields.io/badge/BOT_Store-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/dz_auto_store)
 
 ## Features
 
+- Auto Clear XMAS Tasks 🔥🔥
 - Auto Clear Mission / Tasks
+
+## FREE Version VS PRO Version
+
+| Feature                    | FREE Version       | PRO Version          |
+| -------------------------- | ------------------ | -------------------- |
+| Max Multi-Accounts         | 🚫 Up to 2 Accounts | ✅ Unlimited Accounts |
+| Access to All Bot Features | ❌ Limited          | ✅ Full Access        |
+
+Subscribe PRO version [here](https://irhamdz.notion.site/License-Key-Price-PRO-10f53e553530809bac2fd63fa6053347?pvs=74)
 
 ## Supported Operating Systems
 
@@ -28,12 +40,12 @@ Before setting up the bot, ensure the following are installed:
 
 All the configurations can be set in the .env file.
 
-| Name                    | Description                                     | Default    |
-| ----------------------- | ----------------------------------------------- | ---------- |
-| LICENSE_KEY             | LICENSE KEY                                     |            |
-| USE_RANDOM_DELAY_IN_RUN | Activate delay before start the bot             | True       |
-| RANDOM_DELAY_IN_RUN     | Randomize delay in seconds before start the bot | [5, 30]    |
-| USE_PROXY_FROM_FILE     | For using proxy                                 | False      |
+| Name                    | Description                                     | Default |
+| ----------------------- | ----------------------------------------------- | ------- |
+| LICENSE_KEY             | Dzuhri Auto License Key                         |         |
+| USE_RANDOM_DELAY_IN_RUN | Activate delay before start the bot             | True    |
+| RANDOM_DELAY_IN_RUN     | Randomize delay in seconds before start the bot | [5, 30] |
+| USE_PROXY_FROM_FILE     | For using proxy                                 | False   |
 
 ## How to obtain and use Query ID
 
